@@ -1,0 +1,3 @@
+- I am Rijan Bhattarai, but you all can call me Xyli, Axel, or Rijan.
+- I am a high school senior interested in machine learning and AI.
+- I also have a keen interest in making something similar to the Terminator (not evil)
